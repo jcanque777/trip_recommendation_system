@@ -5,7 +5,7 @@
 - [Model](#model)
 - [Final Recommendation System](#sys)
 - [Futher Steps](#steps)
-
+- A write up for this project is available at [My Website](https://johncanque.com/building-a-trip-recommendation-system/)
 
 ## Project Goals
 The goal of this project is to help plan future trips with activities that you most enjoy at home. Looking at the most popular places is an approach, but getting something customized to activities that you like will make the trip enjoyable and memorable.
